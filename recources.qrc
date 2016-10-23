@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="stop">Src/Icon/stop.png</file>
+        <file alias="start">Src/Icon/start.png</file>
+        <file alias="save">Src/Icon/save.png</file>
+        <file alias="reload">Src/Icon/reload.png</file>
+        <file alias="settings">Src/Icon/adjustement.png</file>
+        <file alias="about">Src/Icon/about.png</file>
+    </qresource>
+</RCC>
